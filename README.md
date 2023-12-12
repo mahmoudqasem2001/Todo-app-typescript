@@ -1,9 +1,8 @@
 # Todo-app-typescript
-https://drive.google.com/file/d/1OTM22HIRXJWtte6UlvnO5dpJGgcIgeB2/view?usp=sharing
 
 # TypeScript ToDo List
 
-[![Watch the video]](https://drive.google.com/file/d/1OTM22HIRXJWtte6UlvnO5dpJGgcIgeB2/view?usp=sharing
+[![Watch the demo]](https://drive.google.com/file/d/1OTM22HIRXJWtte6UlvnO5dpJGgcIgeB2/view?usp=sharing
 )
 
 
