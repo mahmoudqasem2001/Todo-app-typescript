@@ -1,4 +1,3 @@
-# Todo-app-typescript
 
 # TypeScript ToDo List
 
