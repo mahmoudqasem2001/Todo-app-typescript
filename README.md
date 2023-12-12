@@ -3,7 +3,7 @@ https://drive.google.com/file/d/1OTM22HIRXJWtte6UlvnO5dpJGgcIgeB2/view?usp=shari
 
 # TypeScript ToDo List
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://drive.google.com/file/d/1OTM22HIRXJWtte6UlvnO5dpJGgcIgeB2/view?usp=sharing
+[![Watch the video]](https://drive.google.com/file/d/1OTM22HIRXJWtte6UlvnO5dpJGgcIgeB2/view?usp=sharing
 )
 
 
